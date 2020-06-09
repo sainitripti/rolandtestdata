@@ -1,27 +1,29 @@
-[
-  {
-   "serialNum" : "1",
-   "printerName": "LV290",
-   "printerStatus": "Printing"
-   },
-   {
-   "serialNum" : "2",
-   "printerName": "LV-290",
-   "printerStatus": "Printing"
-   },
+{
+  [
+    {
+     "serialNum" : "1",
+     "printerName": "LV290",
+     "printerStatus": "Printing"
+     },
      {
-   "serialNum" : "3",
-   "printerName": "Vinyl Printer",
-   "printerStatus": "Printing"
-   },
-     {
-   "serialNum" : "4",
-   "printerName": "BN-20",
-   "printerStatus": "Printing"
-   },
-     {
-   "serialNum" : "5",
-   "printerName": "3D Printer",
-   "printerStatus": "Printing"
-   }
-]
+     "serialNum" : "2",
+     "printerName": "LV-290",
+     "printerStatus": "Printing"
+     },
+       {
+     "serialNum" : "3",
+     "printerName": "Vinyl Printer",
+     "printerStatus": "Printing"
+     },
+       {
+     "serialNum" : "4",
+     "printerName": "BN-20",
+     "printerStatus": "Printing"
+     },
+       {
+     "serialNum" : "5",
+     "printerName": "3D Printer",
+     "printerStatus": "Printing"
+     }
+  ]
+}
